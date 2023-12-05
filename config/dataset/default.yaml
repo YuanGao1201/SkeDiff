@@ -1,0 +1,8 @@
+name: DEFAULT
+#root_dir: /home/fi/lyh/CT1Kdata/spineCT-128/
+#root_dir: /home/fi/lyh/CT1Kdata/dataSets/
+#root_dir: /home/fi/lyh/CT1Kdata/dataSets-supine-preprocess2/
+#root_dir: /home/fi/lyh/CT1Kdata/dataSets-supine-preprocess3/
+root_dir: /home/fi/lyh/CT1Kdata/dataSets-supine-preprocess3-test/
+#root_dir: /home/fi/lyh/CTPelvic1K/hipCT-220-p1
+image_channels: 1

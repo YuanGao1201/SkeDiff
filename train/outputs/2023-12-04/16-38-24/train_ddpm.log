@@ -1,0 +1,2 @@
+[2023-12-04 16:38:25,300][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmp6zjppk8_
+[2023-12-04 16:38:25,300][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmp6zjppk8_/_remote_module_non_scriptable.py

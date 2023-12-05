@@ -1,0 +1,2 @@
+[2023-12-04 16:39:27,201][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpiigavsig
+[2023-12-04 16:39:27,201][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpiigavsig/_remote_module_non_scriptable.py
